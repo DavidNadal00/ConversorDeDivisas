@@ -19,9 +19,9 @@ Este proyecto fue realizado como parte del desafío de Alura Latam, para seguir 
 
 El Desafio original mostraba un menú fijo con combinaciones de monedas, algo así como:
 
-- 1. Dólar Americano a Peso Argentino
-- 2. Peso Argentino a Dólar
-- 3. Dólar a Real Brasileño
+- Dólar Americano a Peso Argentino
+- Peso Argentino a Dólar
+- Dólar a Real Brasileño
 - etc.
 
 La verdad es que eso estaba bueno para practicar, pero yo quise hacerlo un poco más flexible, así que cambié el flujo para que sea más dinámico:
